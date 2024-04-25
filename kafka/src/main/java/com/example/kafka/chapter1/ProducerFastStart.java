@@ -1,4 +1,4 @@
-package com.example.kafka.produceAndConsume;
+package com.example.kafka.chapter1;
 
 import org.apache.kafka.clients.producer.KafkaProducer;
 import org.apache.kafka.clients.producer.ProducerRecord;
